@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ac13b24a-844d-413c-9d06-aa16b0484350",
+    "Name": "Gyeltshen Wangdi",
+    "email": "12190053.gcit@rub.edu.bt",
+    "password": "Khotsha",
+    "studentID": "12190053",
+    "course": "BSciT",
+    "createdAt": "2023-03-29T09:29:19.088Z",
+    "updatedAt": "2023-03-29T09:29:19.088Z"
+  },
+  {
+    "id": "a1d37230-c4c5-4780-aae0-7a15f90aad01",
+    "Name": "Tshering Duba",
+    "email": "12190073.gcit@rub.edu.bt",
+    "password": "Khotsha",
+    "studentID": "12190073",
+    "course": "BSciT",
+    "createdAt": "2023-03-29T09:36:27.900Z",
+    "updatedAt": "2023-03-29T09:36:27.900Z"
+  },
+  {
+    "id": "c1d79b3f-5be8-4fa5-86f7-19b6c44ea856",
+    "Name": "Kinley Gyeltshen",
+    "email": "12190063.gcit@rub.edu.bt",
+    "password": "Khotsha",
+    "studentID": "12190063",
+    "course": "BSciT",
+    "createdAt": "2023-03-29T09:37:41.820Z",
+    "updatedAt": "2023-03-29T09:37:41.820Z"
+  },
+  {
+    "id": "e3449fee-7d0d-456b-883d-3965bb399e49",
+    "Name": "Sonam Star",
+    "email": "12190066.gcit@rub.edu.bt",
+    "password": "Khotsha",
+    "studentID": "12190066",
+    "course": "BSciT",
+    "createdAt": "2023-03-29T09:39:33.171Z",
+    "updatedAt": "2023-03-29T09:39:33.171Z"
+  },
+  {
+    "id": "42a16584-6eb8-4a7e-a79a-b4052a6d2733",
+    "Name": "Rashime Gurung",
+    "email": "12190065.gcit@rub.edu.bt",
+    "password": "Khotsha",
+    "studentID": "12190065",
+    "course": "BSciT",
+    "createdAt": "2023-03-29T09:39:55.611Z",
+    "updatedAt": "2023-03-29T09:39:55.611Z"
+  }
+]
